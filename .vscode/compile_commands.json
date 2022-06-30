@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/adam/GitRepo/toys/leptjson",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/leptjson/linux/x86_64/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+}]
