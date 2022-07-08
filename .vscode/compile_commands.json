@@ -1,6 +1,11 @@
 [
 {
   "directory": "/home/adam/GitRepo/toys/leptjson",
-  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/leptjson/linux/x86_64/src/main.c.o", "src/main.c"],
-  "file": "src/main.c"
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/leptjson_test/linux/x86_64/src/test.c.o", "src/test.c"],
+  "file": "src/test.c"
+},
+{
+  "directory": "/home/adam/GitRepo/toys/leptjson",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-o", "build/.objs/leptjson_test/linux/x86_64/src/leptjson.c.o", "src/leptjson.c"],
+  "file": "src/leptjson.c"
 }]
